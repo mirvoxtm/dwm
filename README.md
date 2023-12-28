@@ -5,3 +5,7 @@ My custom dwm 6.2 with the following patches:
 
 
 ![Screenshot](/screenshot.jpg)
+
+<hr>
+
+This repo was based of [igor37](https://github.com/igor37/dwm-rounded-corners)'s build.
